@@ -28,7 +28,7 @@ O script implementa uma calculadora que permite realizar as operações básicas
  - Multiplicação
  - Divisão
    
-# Estrutura do código:
+### Estrutura do código:
  - Um menu interativo solicita ao usuário a operação desejada.
  - O programa valida a entrada e realiza a operação correspondente.
  - É possível repetir operações até que o usuário escolha sair.
