@@ -11,13 +11,13 @@
 
    
 ### No Linux
-O arquivo `executar.sh` é usado para executar o script Python em sistemas baseados em Unix, como Linux e macOS. 
+O arquivo `calculadora.sh` é usado para executar o script Python em sistemas baseados em Unix, como Linux e macOS. 
 Passos:
 1. Abra o terminal no Linux ou macOS.
-2. Navegue até o diretório onde o arquivo `executar.sh` está localizado:
+2. Navegue até o diretório onde o arquivo `calculadora.sh` está localizado:
    ```bash
    cd /caminho/para/o/diretorio
-   ./executar.sh
+   ./calculadora.sh
 
 
 ### Sobre o código
